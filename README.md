@@ -1,5 +1,7 @@
 # Welcome to your own library system
 
+#This react app is configured using react hooks and redux, storing all data as initial redux memory and updating the same
+
 # Unzip the package and open the folder in Visual Studio code, go to LibrarySystem folder(extracted one) 
 # In Terminal window of vs code > do "npm install" (which install all dependencies required for this project)
 
